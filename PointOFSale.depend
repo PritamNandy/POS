@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1449731156 source:c:\users\prita\desktop\c++ codes\pointofsale\administrator.cpp
+
+1449770034 source:c:\users\prita\desktop\c++ codes\pointofsale\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<queue>
+	"Transaction.h"
+	"SalesMan.h"
+	"UnsortedType.h"
+	"ItemType.h"
+
+1449733813 c:\users\prita\desktop\c++ codes\pointofsale\transaction.h
+	<iostream>
+	"Transaction.cpp"
+
+1449733813 c:\users\prita\desktop\c++ codes\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449767728 source:c:\users\prita\desktop\c++ codes\pointofsale\salesman.cpp
+	"SalesMan.h"
+	<queue>
+
+1449732848 source:c:\users\prita\desktop\c++ codes\pointofsale\searchproduct.cpp
+	"SearchProduct.h"
+
+1449733813 source:c:\users\prita\desktop\c++ codes\pointofsale\transaction.cpp
+	"Transaction.h"
+	<iostream>
+	<ctime>
+	<fstream>
+
+1449768039 c:\users\prita\desktop\c++ codes\pointofsale\searchproduct.h
+	"Administrator.h"
+	<iostream>
+	<fstream>
+	"SearchProduct.cpp"
+
+1449767937 c:\users\prita\desktop\c++ codes\pointofsale\administrator.h
+	"SalesMan.h"
+	"Transaction.h"
+	"SearchProduct.h"
+	"UnsortedType.h"
+	"Administrator.cpp"
+
+1449769397 c:\users\prita\desktop\c++ codes\pointofsale\salesman.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<queue>
+	"Administrator.h"
+	"SearchProduct.h"
+
+1449731156 c:\users\prita\desktop\c++ codes\pointofsale\administrator.cpp
+
+1449732848 c:\users\prita\desktop\c++ codes\pointofsale\searchproduct.cpp
+	"SearchProduct.h"
+
+1449770034 c:\users\prita\desktop\c++ codes\pointofsale\unsortedtype.h
+	"SalesMan.h"
+	"ItemType.h"
+
+1449770549 source:c:\users\prita\desktop\c++ codes\pointofsale\itemtype.cpp
+	"ItemType.h"
+
+1449770384 c:\users\prita\desktop\c++ codes\pointofsale\itemtype.h
+	<fstream>
+	<iostream>
+
+1449770454 source:c:\users\prita\desktop\c++ codes\pointofsale\unsortedtype.cpp
+	"UnsortedType.h"
+
